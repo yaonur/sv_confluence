@@ -7,9 +7,7 @@ import Meow from "$comp/meow/Meow.svelte";
 <!-- After -->
 <button class="bg-sky-700 px-4 py-2 text-white hover:bg-sky-800 sm:px-8 sm:py-3"> ... </button>
 
-<Comp user="jane"/>
-
-
+<Comp user="jane" />
 
 
 
